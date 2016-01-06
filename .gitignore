@@ -1,0 +1,5 @@
+*.pyc
+Src/SEProjectWeb/auto-generate
+Src/SEProjectWeb/jpgraph/Examples
+Src/SEProjectWeb/SEProjectWeb/phpChart_Litejs
+Src/SEProjectWeb/SEProjectWeb/phpChart_Litecss

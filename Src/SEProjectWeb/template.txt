@@ -1,0 +1,2 @@
+BeiJingSpider1 http://www.bgpc.gov.cn/news/news/nt_id/32 www.bgpc.gov.cn //div[@id='newslist']/ul/li//a //a[contains(.,'下一页')] //div[@id='news_word']//h1[@class='news_title']/text() //div[@id='news_word']//div[@class='news_content'] 0
+BeiJingSpider1 http://www.bgpc.gov.cn/news/news/nt_id/32 www.bgpc.gov.cn //div[@id='newslist']/ul/li//a //a[contains(.,'下一页')] //div[@id='news_word']//h1[@class='news_title']/text() //div[@id='news_word']//div[@class='news_content'] 0
